@@ -64,7 +64,7 @@ function alandanKenarBul (alan: number) {
     ```block
     basic.showNumber(0)
 
-```
+    ```
 
 ## Fonksiyonları Çağıralım. @unplugged
 
